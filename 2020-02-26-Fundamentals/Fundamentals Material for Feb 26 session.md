@@ -24,14 +24,10 @@ To support this further, we've provided some broader reference material, which m
 
 Machine Learning typically uses many algorithms from the classification, recommender systems, clustering, anomaly detection, regression, and text analytics families. Azure Machine learning is no exception.  Each algorith addresses a different type of machine learning problem. These cheat sheets help you consider which approach might be appropriate for your analytics model.
 
-
 - [Machine learning algorithm cheat sheet for Azure Machine Learning Designer](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
 - [28 cheat sheets for Machine Learning, Data Science, Probability, SQL & Big Data](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
 
-
-Some general good advice: 
-
-It's often not clear which machine learning algorithm would be more appropriate. - [this](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-select-algorithms) helps clarify some core questions to ask yourself and the types of success criteria.
+It's often not clear which machine learning algorithm would be more appropriate. [This](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-select-algorithms) may help clarify some core questions to ask yourself and types of success criteria.  
 
 ## Tutorials and Labs
 
